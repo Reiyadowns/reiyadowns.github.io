@@ -17,10 +17,11 @@ left: 20px;
 }
 
 .container{
-border-radius: 15px;
+padding: 50px 50px;
 width:50%;
 margin:auto;
 
+border-radius: 15px;
 border:2px #fffeff solid;
 text-align:left;
 
