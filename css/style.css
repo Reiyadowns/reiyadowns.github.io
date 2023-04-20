@@ -17,6 +17,7 @@ left: 20px;
 }
 
 .container{
+border-radius: 25px;
 width:50%;
 margin:auto;
 
