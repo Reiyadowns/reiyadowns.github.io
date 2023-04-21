@@ -1,5 +1,5 @@
 body{
-background-image: url('../images/superposition_bg.png');
+background-image: url('/images/superposition_bg.png');
 background-color: #e01073;
 background-repeat: no-repeat;
 background-size: 100% 100%;
@@ -7,7 +7,7 @@ background-size: 100% 100%;
 
 #main-header{
 padding: 125px;
-background-image: url('../images/superposition_header.png');
+background-image: url('/images/superposition_header.png');
 background-size: 70%;
 background-repeat: no-repeat;
 
